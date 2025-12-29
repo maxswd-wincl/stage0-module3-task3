@@ -2,6 +2,8 @@ package school.mjc.stage0.module3.task3;
 
 public class BasicVariablesInitialization {
     public static void main(String[] args) {
-        //write code here
+        int first = 1;
+        int second = 2;
+        int third = 100;
     }
 }
